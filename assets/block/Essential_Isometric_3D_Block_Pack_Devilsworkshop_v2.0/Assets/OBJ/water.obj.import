@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/water.obj-ac7d0d36dec98606c22b252cc1169835.mesh"
+
+[deps]
+
+files=[ "res://.import/water.obj-ac7d0d36dec98606c22b252cc1169835.mesh" ]
+
+source_file="res://assets/block/Essential_Isometric_3D_Block_Pack_Devilsworkshop_v2.0/Assets/OBJ/water.obj"
+dest_files=[ "res://.import/water.obj-ac7d0d36dec98606c22b252cc1169835.mesh", "res://.import/water.obj-ac7d0d36dec98606c22b252cc1169835.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/snow.obj-17ab177d8bbf712d9277006ba59cb06e.mesh"
+
+[deps]
+
+files=[ "res://.import/snow.obj-17ab177d8bbf712d9277006ba59cb06e.mesh" ]
+
+source_file="res://assets/block/Essential_Isometric_3D_Block_Pack_Devilsworkshop_v2.0/Assets/OBJ/snow.obj"
+dest_files=[ "res://.import/snow.obj-17ab177d8bbf712d9277006ba59cb06e.mesh", "res://.import/snow.obj-17ab177d8bbf712d9277006ba59cb06e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

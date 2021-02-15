@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stone02.obj-ee522f4b1580acf0b71f88cdec304f6f.mesh"
+
+[deps]
+
+files=[ "res://.import/stone02.obj-ee522f4b1580acf0b71f88cdec304f6f.mesh" ]
+
+source_file="res://assets/block/Essential_Isometric_3D_Block_Pack_Devilsworkshop_v2.0/Assets/OBJ/stone02.obj"
+dest_files=[ "res://.import/stone02.obj-ee522f4b1580acf0b71f88cdec304f6f.mesh", "res://.import/stone02.obj-ee522f4b1580acf0b71f88cdec304f6f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/groundMud.obj-20c429610af663935f1acac5cbe04b6c.mesh"
+
+[deps]
+
+files=[ "res://.import/groundMud.obj-20c429610af663935f1acac5cbe04b6c.mesh" ]
+
+source_file="res://assets/block/Essential_Isometric_3D_Block_Pack_Devilsworkshop_v2.0/Assets/OBJ/groundMud.obj"
+dest_files=[ "res://.import/groundMud.obj-20c429610af663935f1acac5cbe04b6c.mesh", "res://.import/groundMud.obj-20c429610af663935f1acac5cbe04b6c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
